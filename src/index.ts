@@ -13,7 +13,7 @@ function printName(name: string) {
     console.log(name);
 }
 
-printName("alex")
+printName("eeee alex")
 let ages: number[] = [10, 20, 30, 35, 67]
 let names: string[] = ["alex", "isaac", "monkey"]
 

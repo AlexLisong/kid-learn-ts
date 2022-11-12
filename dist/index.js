@@ -8,7 +8,7 @@ let presentYear = 2022;
 function printName(name) {
     console.log(name);
 }
-printName("alex");
+printName("eeee alex");
 let ages = [10, 20, 30, 35, 67];
 let names = ["alex", "isaac", "monkey"];
 function calculateAge(birthYear) {
@@ -36,4 +36,5 @@ let car = {
 console.log(car.maker);
 console.log(car.owner);
 const number1 = 5;
+const number2 = 12893;
 //# sourceMappingURL=index.js.map
